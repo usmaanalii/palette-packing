@@ -1,0 +1,1 @@
+In the python 3 version, the file needs to be run twice, for the analysis txt file to return results
