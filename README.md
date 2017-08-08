@@ -15,6 +15,14 @@ For the Python aspect of the module, we were tasked with producing a palette pac
 - [Usage](#usage)
 - [Example](#example)
 
+**NOTE**
+
+This was my my first experience of programming (outside of self taught HTML/CSS/Javascript), therefore does not represent my current skill level.
+
+Since the time of this project, I have improved massively and gained much more experience (and hours programming).
+
+Other repositories will give a better reflection of where I am currently at. I'm aware that the program is highly inefficient and would have been much better if it utilised an object oriented approach, however at the time this was beyond my capabilities. I preceded to complete the program using a procedural approach (since it was the only way I knew how).
+
 ## Specification
 
 You will be given the following files:
@@ -269,11 +277,3 @@ Palette stack 6 used 90.0% of the total length<br>
 Palette stack 6 used 50.0% of the total width
 
 -------------------------------------------------------------
-
-**NOTE**
-
-This was my my first experience of programming (outside of self taught HTML/CSS/Javascript), therefore does not represent my current skill level.
-
-Since the time of this project, I have improved massively and gained much more experience (and hours programming).
-
-Other repositories will give a better reflection of where I am currently at. I'm aware that the program is highly inefficient and would have been much better if it utilised an object oriented approach, however at the time this was beyond my capabilities. I preceded to complete the program using a procedural approach (since it was the only way I knew how).
